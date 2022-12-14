@@ -24,3 +24,12 @@ And since this is public that makes it worse Sho Yea Enjoy
 
 # Main
 <img src="https://media.discordapp.net/attachments/924259424518930454/1052677765394079864/Main.PNG" width="1000" height="500" />
+
+# Misc
+<img src="https://media.discordapp.net/attachments/924259424518930454/1052677765813502002/Misc.PNG" width="1000" height="500" />
+
+# Other
+<img src="https://media.discordapp.net/attachments/924259424518930454/1052677766144864276/Other.PNG" width="1000" height="500" />
+
+# Select
+<img src="https://media.discordapp.net/attachments/924259424518930454/1052677766425878589/Select.PNG" width="1000" height="500" />
