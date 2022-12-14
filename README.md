@@ -23,4 +23,4 @@ Due Know that AC update all the time so from time to time This will not work sin
 And since this is public that makes it worse Sho Yea Enjoy 
 
 # Main
-<img src="https://media.discordapp.net/attachments/924259424518930454/1052677765394079864/Main.PNG" width="500" height="500" />
+<img src="https://media.discordapp.net/attachments/924259424518930454/1052677765394079864/Main.PNG" width="1000" height="500" />
